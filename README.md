@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python GUI based on Tkinter**
 
-- 🌱 I’m currently learning **Python Java C#**
+- 🌱 I’m currently learning **Python Java C# Figma**
 
 - 👨‍💻 All of my projects are available at [ravidu.com](ravidu.com)
 
