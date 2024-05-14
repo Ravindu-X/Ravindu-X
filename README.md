@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [ravidu/content/cv.com](ravidu/content/cv.com)
 
-- ⚡ Fun fact **The Earth is flat 🌎😂**
+- ⚡ Fun fact **The Earth is flat 🌎🥲**
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
