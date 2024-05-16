@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=ravindu-x&label=Profile%20views&color=0e75b6&style=flat"
         alt="ravindu-x" /> </p>
 
-- 🔭 I’m currently working on **Python GUI based on Tkinter**
+- 🔭 I’m currently working on **Custom Web Extension👾**
 
 - 🌱 I’m currently learning **Python Java C# Figma**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [ravidu/content/cv.com](ravidu/content/cv.com)
 
-- ⚡ Fun fact **The Earth is flat 🌎🥲**
+- ⚡ Fun fact **The Earth is flat 🌎😅**
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
