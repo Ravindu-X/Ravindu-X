@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Custom Web Extension👾**
 
-- 🌱 I’m currently learning **Python Java C# Figma**
+- 🌱 I’m currently learning **Python Java C# Figma Java Script**
 
 - 👨‍💻 All of my projects are available at [ravidu.com](ravidu.com)
 
