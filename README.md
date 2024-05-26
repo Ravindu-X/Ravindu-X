@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=ravindu-x&label=Profile%20views&color=0e75b6&style=flat"
         alt="ravindu-x" /> </p>
 
-- 🔭 I’m currently working on **Custom Web Extension👾**
+- 🔭 I’m currently working on **App Based on python framework**
 
 - 🌱 I’m currently learning **Python Java C# Figma**
 
