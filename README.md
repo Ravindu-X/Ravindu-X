@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Look at my CV](ravidu.com/personal/cv.pdf)
 
-- ⚡ Fun fact **Python is named after Monty Python, not the snake 😅**
+- ⚡ Fun fact **Python is named after Monty Python, not the snake 🐍😅**
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
