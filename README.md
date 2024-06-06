@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h1 align="center">Hello, I'm Ravindu <img src="https://slackmojis.com/emojis/21710-peace/download" width="35" />
-<h3 align="center">A Designer and Developer from Sri Lanka ❤</h3>
+<h3 align="center">A Designer and Developer from Sri Lanka❤</h3>
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=ravindu-x&label=Profile%20views&color=0e75b6&style=flat"
