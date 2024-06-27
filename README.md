@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [ravidu.com](ravidu.com)
 
-- 📝 I regularly write articles on [ravidu/blog.com](ravidu.com/blog)
+- 📝 I regularly write articles on [ravidu.com/blog](ravidu.com/blog)
 
 - 💬 Ask me about **C O D I N G </>**
 
