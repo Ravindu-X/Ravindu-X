@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C O D I N G </>**
 
-- 📫 How to reach me **hello@ravidu.com**
+- 📫 How to reach me [Write Me](ravindux@tuta.io)
 
 - 📄 Know about my experiences [Look at my CV](ravidu.com/personal/cv.pdf)
 
