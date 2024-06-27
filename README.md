@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [ravidu.com](ravidu.com)
 
-- 📝 I regularly write articles on [ravidu/blog.com](ravidu/blog.com)
+- 📝 I regularly write articles on [ravidu/blog.com](ravidu.com/blog)
 
 - 💬 Ask me about **C O D I N G </>**
 
-- 📫 How to reach me [Write Me](ravindux@tuta.io)
+- 📫 How to reach me [write me](ravindux@tuta.io)
 
 - 📄 Know about my experiences [Look at my CV](ravidu.com/personal/cv.pdf)
 
