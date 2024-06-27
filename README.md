@@ -38,7 +38,7 @@
       <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" height="50" width="50" />
     </a> &nbsp;&nbsp;
     <a href="https://youtube.com" target="blank">
-      <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/youtube.png" height="50" width="50" />
+      <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" height="50" width="50" />
     </a> &nbsp;&nbsp;
     <a href="mailto:ravindux@tuta.io" target="blank">
       <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Mail_ru.png" height="50" width="50" />
