@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python Java C# Figma**
 
-- 👨‍💻 All of my projects are available at [ravidu.com](ravidu.com)
+- 👨‍💻 All of my projects are available at [ravidu.com](http://www.ravidu.com)
 
 - 📝 I regularly write articles on [ravidu.com/blog](ravidu.com/blog)
 
